@@ -1,7 +1,11 @@
 function Div_main() {
 	return (
-		<aside aria-label="Related articles" class="py-8 lg:py-24 bg-white antialiased">
+		<aside aria-label="Related articles" class="py-4 lg:py-24 bg-white antialiased">
 			<div class="px-4 mx-auto max-w-screen-xl space-y-8">
+				              
+				<h2 class="mb-4 text-3xl font-extrabold leading-none tracking-tight text-gray-900 md:text-4xl">
+					JK 통계 컨설팅 블로그
+				</h2>
 				  
 				<article class="flex mb-8">
 					<a href="#" class="shrink-0">
